@@ -1,15 +1,3 @@
-
-header {
-    display: flex;
-    font-family: "Source Sans Pro", sans-serif;
-    align-items: center;
-    background-color: transparent;
-    justify-content: space-between;
-    margin-left: 165px;
-    margin-right: 165px;
-    margin-top: 35px;
-}
-
 body {
     block-size: auto;
     overflow: auto;
@@ -20,6 +8,17 @@ body {
     background-image: url("./images/background-image.png");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+header {
+    display: flex;
+    font-family: "Source Sans Pro", sans-serif;
+    align-items: center;
+    background-color: transparent;
+    justify-content: space-between;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-top: 35px;
 }
 
 .banner-section {
