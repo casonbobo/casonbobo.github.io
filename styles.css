@@ -1,6 +1,7 @@
 body {
     block-size: auto;
     overflow: auto;
+    text-align: center;
 }
 
 .background-image{
@@ -120,6 +121,7 @@ header {
     font-size: 2em;
     margin-bottom: 40px;
     color: #071629;
+    align-items: row;
 }
 
 .videos-section h2 span {
